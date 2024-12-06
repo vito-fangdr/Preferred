@@ -1,2 +1,3 @@
-# Preferred IP
-# Preferred Domain
+# Preferred
+* Preferred IP
+* Preferred Domain
