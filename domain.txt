@@ -1,4 +1,3 @@
-time.is
 icook.hk
 icook.tw
 ip.sb
@@ -15,6 +14,7 @@ www.visa.cn
 www.visa.com
 www.visa.co.jp
 www.visakorea.com
+time.is
 www.glassdoor.com
 www.csgo.com
 www.okcupid.com
