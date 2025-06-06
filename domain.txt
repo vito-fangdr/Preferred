@@ -1,8 +1,13 @@
 time.is
 icook.hk
 icook.tw
-shopify.com
 ip.sb
+www.gov.se
+www.gov.ua
+gur.gov.ua
+www.gco.gov.qa
+fbi.gov
+shopify.com
 www.visa.com.hk
 www.visa.com.tw
 www.visa.com.sg
@@ -10,12 +15,7 @@ www.visa.cn
 www.visa.com
 www.visa.co.jp
 www.visakorea.com
-fbi.gov
 www.glassdoor.com
-www.gov.se
-www.gov.ua
-gur.gov.ua
-www.gco.gov.qa
 www.csgo.com
 www.okcupid.com
 japan.com
