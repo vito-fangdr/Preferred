@@ -4,4 +4,5 @@
 
 
 CM edgetunnel 优选域名(cf1)  
-https://raw.githubusercontent.com/vito-fangdr/Preferred/refs/heads/main/domain.txt
+https://raw.githubusercontent.com/bwvito/Preferred/refs/heads/main/domain.txt  
+~~https://raw.githubusercontent.com/vito-fangdr/Preferred/refs/heads/main/domain.txt~~  
